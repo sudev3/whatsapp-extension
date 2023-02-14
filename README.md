@@ -1,5 +1,5 @@
 # whatsapp-extension
-Chrome Extension to automate whatapp
+Chrome Extension to automate whatsapp
 
 This script is developed to make the maximum of interaction possibles on page and simulating a humam interaction, less possibilities to whatsapp bot get you using a automation
 
