@@ -1,7 +1,7 @@
 # whatsapp-extension
 Chrome Extension to automate whatsapp
 
-This script is developed to make the maximum of interaction possibles on page and simulating a humam interaction, less possibilities to whatsapp bot get you using a automation
+This script is developed to make the maximum of interaction possibles on page and simulating a human interaction, less possibilities to whatsapp bot get you using a automation
 
 
 Functions:
@@ -12,6 +12,6 @@ Functions:
 - Discover client number phone
 - Bulk messages
 - Send message without save contact
-- Read QR Code to remote authenticate from api
+- Read QR Code to remote authentication from api
 
 More functions in development...
